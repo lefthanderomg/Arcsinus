@@ -1,0 +1,15 @@
+<resources>
+
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+        <item name="android:textViewStyle">@style/TextHero</item>
+    </style>
+    
+    <style name="TextHero" parent="android:Widget.TextView">
+        <item name="android:textColor">@color/colorBlack</item>
+        <item name="android:textSize">@dimen/text_size_default</item>
+    </style>
+
+</resources>
