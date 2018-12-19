@@ -1,13 +1,10 @@
 <resources>
     <string name="app_name">Arcsinus</string>
     <string name="search">Search</string>
-
     <string name="error_unknown">Неизвестная ошибка</string>
     <string name="error_unable_load_data">Не удалось загрузить данные</string>
-    <string name="error_unauthorized">Необходима авторизация</string>
     <string name="error_no_internet">Проверьте ваше интернет соединение</string>
     <string name="error_service_not_available">Сервис временно недоступен</string>
-    <string name="error_load">Произошла ошибка при загрузке</string>
     <string name="person_not_found">Персонаж не найден</string>
 
 

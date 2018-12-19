@@ -19,5 +19,5 @@ class DbModule {
 
     @PerApplication
     @Provides
-    fun provideHeroDao(db: AppDataBase) = db.getHerodao()
+    fun provideHeroDao(db: AppDataBase) = db.getHeroDao()
 }

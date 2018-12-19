@@ -1,12 +1,9 @@
 package com.arcsinus.murzin.andrey.arcsinus.presentation.feature.main.presenter
 
 import com.arcsinus.murzin.andrey.arcsinus.Screens
-import com.arcsinus.murzin.andrey.arcsinus.presentation.base.BasePresenter
 import com.arcsinus.murzin.andrey.arcsinus.presentation.feature.main.view.MainView
-
 import com.arellomobile.mvp.InjectViewState
 import com.arellomobile.mvp.MvpPresenter
-
 import ru.terrakok.cicerone.Router
 import javax.inject.Inject
 

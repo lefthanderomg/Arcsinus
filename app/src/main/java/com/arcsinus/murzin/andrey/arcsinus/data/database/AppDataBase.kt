@@ -14,9 +14,9 @@ import com.arcsinus.murzin.andrey.arcsinus.data.database.model.HeroModelDb
 abstract class AppDataBase : RoomDatabase() {
 
     companion object {
-        val DB_NAME = "db_arcsinus"
+        const val DB_NAME = "db_arcsinus"
     }
 
-    abstract fun getHerodao(): HeroDao
+    abstract fun getHeroDao(): HeroDao
 
 }

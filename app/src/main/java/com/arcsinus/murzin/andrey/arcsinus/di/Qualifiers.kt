@@ -2,10 +2,6 @@ package com.arcsinus.murzin.andrey.arcsinus.di
 
 import javax.inject.Qualifier
 
-/**
- * Created by olegshelyakin on 10/05/2018.
- */
-
 @Qualifier
 annotation class ComputationScheduler
 
